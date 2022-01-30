@@ -1,1 +1,1 @@
-# DataScraping-python
+# Simple_gambling_project
